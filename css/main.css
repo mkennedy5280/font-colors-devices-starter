@@ -16,3 +16,21 @@ h1 {
 h2 {
   font-size: 1.5em;
 }
+
+
+
+/* ----------- Responsive ----------- */
+/* --- Tablets larger than 768px wide --- */
+@media (min-width: 768px) {
+	h1 {
+    color: #02cbd2;
+   }
+ }
+	h2 {
+    color: #fcc02a;
+   }
+	p {
+    color: #7b8f8e;
+   }
+
+}
